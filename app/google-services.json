@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "305527749832",
+    "project_id": "amep-975b8",
+    "storage_bucket": "amep-975b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305527749832:android:a7d9836f63877b17fbf9fd",
+        "android_client_info": {
+          "package_name": "com.example.amep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305527749832-c27v53jsjao9uqmj9tr6al9ig1r07h7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amep",
+            "certificate_hash": "035c98860d20254e24b57357ebb8bbf26e8d8df9"
+          }
+        },
+        {
+          "client_id": "305527749832-r58m8tn6mia3b2asgg5tmjqalnmjrfau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbEZ5Vyh_yKqnepQLU98ejm7wOkNC8W7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305527749832-r58m8tn6mia3b2asgg5tmjqalnmjrfau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
